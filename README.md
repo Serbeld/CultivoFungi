@@ -16,5 +16,4 @@ pip install pandas
 
 pip install openpyxl
 
-#### Autor:
-#### Sergio Beleño :octocat: ✒️
+#### Autor: Sergio Beleño :octocat: ✒️
