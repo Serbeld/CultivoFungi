@@ -15,3 +15,6 @@ pip install opencv-python
 pip install pandas
 
 pip install openpyxl
+
+#### Autor:
+#### Sergio Beleño :octocat: ✒️
