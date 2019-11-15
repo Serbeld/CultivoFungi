@@ -3,6 +3,10 @@ Este repositorio va destinado al análisis del modelo de crecimiento de hongos m
 
 <img src="Cultivo.PNG" />
 
+A continuación se muestra la data tomada en un archivo en excel generado por el mismo código.
+
+<img src="Data.PNG" />
+
 # Como descargar las librerías necesarias para compilar el código
 Copie y pegue cada una de los siguientes comandos en el CMD (Símbolo del sistema) ingresando los comandos línea por línea solo una a la vez:
 
