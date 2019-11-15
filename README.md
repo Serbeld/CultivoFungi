@@ -3,7 +3,7 @@ Este repositorio va destinado al análisis del modelo de crecimiento de hongos m
 
 <img src="Cultivo.PNG" />
 
-A continuación se muestra la data tomada en un archivo en excel generado por el mismo código.
+A continuación se muestra la data tomada guardada en un archivo en excel generado por el mismo código.
 
 <img src="Data.PNG" />
 
