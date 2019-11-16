@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 import pandas as pd
-
+import matplotlib.pyplot as plt
 ######################################################################################################
 
 def area_del_cultivo_de_bacterias(nombre,Binar = 125,dim_del_kernel = 5, iteraciones = 4):
@@ -61,4 +61,8 @@ for cond_i in range (0,Ndata):
 # Se guarda la data en un archivo excel
 df.to_excel('Data.xlsx', sheet_name='Data')
 
+plt.figure(1)
+plt.plot(Datos_de_Areas)
+plt.savefig("Regresión.jpg", bbox_inches = 'tight')
+plt.show()
 #######################################################################################################
