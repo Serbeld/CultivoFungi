@@ -7,6 +7,10 @@ A continuación se muestra la data tomada guardada en un archivo en excel genera
 
 <img src="Data.PNG" />
 
+Y se muestra la regresión tomada guardada en una imagen con extension .jpg generado por el mismo código.
+
+<img src="regresión.jpg" />
+
 # Como descargar las librerías necesarias para compilar el código
 Copie y pegue cada una de los siguientes comandos en el CMD (Símbolo del sistema) ingresando los comandos línea por línea solo una a la vez:
 
