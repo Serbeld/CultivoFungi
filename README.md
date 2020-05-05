@@ -1,4 +1,4 @@
-# Cultivo_Fungi :octocat:
+# Cultivo Fungi :octocat:
 Este repositorio va destinado al análisis del modelo de crecimiento de hongos mediante visión artificial 
 
 <img src="Cultivo.PNG" />
